@@ -11,7 +11,7 @@ Here's what it does :
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
-### Built With
+### BUILT With
 
  list any major frameworks that was used to built this project.
 * [Bootstrap]
