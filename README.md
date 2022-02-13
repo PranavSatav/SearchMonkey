@@ -18,5 +18,5 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 * [JavaScript]
 * [HTML / CSS]
 
-Demo : http://nubz.000webhostapp.com/searchengine/
+
 
