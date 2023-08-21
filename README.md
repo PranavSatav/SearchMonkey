@@ -18,6 +18,11 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 * [Bootstrap]
 * [JavaScript]
 * [HTML / CSS]
+* Tailwind (v3)
+  
+-------------------------------
+<img src="https://i.imgur.com/51R8GCg.png"/>
+  
 
 
 
